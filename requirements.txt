@@ -1,0 +1,19 @@
+# Core ML / DL
+tensorflow>=2.10.0
+torch>=2.0.0
+scikit-learn>=1.0
+transformers>=4.20.0
+
+# Data / preprocessing
+pandas>=1.5
+numpy>=1.23
+gensim>=4.3
+nltk>=3.8
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.12
+
+# Notebooks
+jupyter
+notebook

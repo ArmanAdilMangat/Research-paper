@@ -1,0 +1,39 @@
+# Data
+*.csv
+*.parquet
+*.h5
+*.pkl
+dataset/
+data/
+
+# Models & checkpoints
+*.pt
+*.pth
+*.ckpt
+*.tflite
+saved_models/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Output / logs
+*.log
+*.out
+output/
+logs/
